@@ -1,0 +1,18 @@
+.avatar, .item-avatar .avatar {
+    border-radius: 0px;
+}
+.menu .avatar{
+	height: 100px;
+    width: 150px;
+    top: 20px;
+    left: 60px;
+}
+.home-slide-box{
+	height: 250px;
+}
+.img-new-home{
+	width: 100%;
+}
+.img-new-container{
+	margin-top: 15px;
+}
